@@ -3,4 +3,4 @@ second_number = 14
 
 Sum = first_number + second_number
 
-Puts Sum
+puts Sum
